@@ -106,4 +106,6 @@
 
   <br />
 
-  <img src="./assets/banner.png" width="100%" style="border-radius: 12px; box-shadow:
+  <img src="./assets/banner.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Fernanda Miranda Banner" />
+
+</div>
