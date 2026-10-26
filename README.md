@@ -80,18 +80,25 @@
 
   <br />
 
-  <h2>📊 Estatísticas no GitHub</h2>
+  ### 📊 Estatísticas
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwrmiranda&theme=maroon&hide_border=false" alt="GitHub Streak" />
-  </p>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fwrmiranda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-  <br />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwrmiranda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=B91C1C&center=true&vCenter=true&width=550&lines=Com+grandes+poderes%2C+v%C3%AAm+grandes+responsabilidades..." alt="Citação Animada" />
-  </p>
-
+</p>
 
   <h2>🌐 Contatos</h2>
 
