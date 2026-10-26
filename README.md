@@ -80,7 +80,7 @@
 
   <br />
 
-<h2> 📊 Estatísticas <h2/>
+<h2> 📊 Estatísticas </h2>
 
 <p>
   <img 
