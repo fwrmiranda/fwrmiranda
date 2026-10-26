@@ -13,13 +13,13 @@
 
   <h2>🕷️ Quem Sou Eu?</h2>
 
-  <p align="center">
+  <h3 align="center">
     🎓 <b>Cursando o 4º período de Ciência da Computação na Universidade Federal do Maranhão (UFMA).</b><br /><br />
     🎨 <b>Interesse e foco em Desenvolvimento Web, Design de Interfaces e Banco de Dados.</b><br /><br />
     💡 <b>Crio e prototipo ideias de sites no Figma, juntando o visual com a prática do código.</b><br /><br />
     👥 <b>Faço parte do PETComp e do programa Trilhas Inova Maranhão.</b><br /><br />
     🚀 <b>Bastante dedicada a aprender coisas novas e explorar diferentes áreas da tecnologia.</b>
-  </p>
+  </h3>
 
   <br />
 
