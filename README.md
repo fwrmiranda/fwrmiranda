@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/download.gif" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Spider-Man" />
+  <img src="./assets/download.gif" width="80%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Spider-Man" />
   <p><i>"Meanwhile, somewhere in code & design..."</i></p>
 
   <p align="center">
@@ -16,13 +16,15 @@
   <table>
     <tr>
       <td width="100%" align="left">
-        <ul>
-          <li>🎓 Cursando o <b>4º período de Ciência da Computação</b> na Universidade Federal do Maranhão (<b>UFMA</b>).</li>
-          <li>🎨 Interesse e foco em <b>Desenvolvimento Web, Design de Interfaces e Banco de Dados</b>.</li>
-          <li>💡 Crio e prototipo ideias de sites no <b>Figma</b>, juntando o visual com a prática do código.</li>
-          <li>👥 Faço parte do <b>PETComp</b> e do programa <b>Trilhas Inova Maranhão</b>.</li>
-          <li>🚀 Bastante dedicada a aprender coisas novas e explorar diferentes áreas da tecnologia.</li>
-        </ul>
+        <font size="4">
+          <ul>
+            <li>🎓 Cursando o <b>4º período de Ciência da Computação</b> na Universidade Federal do Maranhão (<b>UFMA</b>).</li>
+            <li>🎨 Interesse e foco em <b>Desenvolvimento Web, Design de Interfaces e Banco de Dados</b>.</li>
+            <li>💡 Crio e prototipo ideias de sites no <b>Figma</b>, juntando o visual com a prática do código.</li>
+            <li>👥 Faço parte do <b>PETComp</b> e do programa <b>Trilhas Inova Maranhão</b>.</li>
+            <li>🚀 Bastante dedicada a aprender coisas novas e explorar diferentes áreas da tecnologia.</li>
+          </ul>
+        </font>
       </td>
     </tr>
   </table>
@@ -31,27 +33,56 @@
 
   <h2>🛠️ Ferramentas & Tecnologias</h2>
 
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,html,css,js,c,python,java,git,github,vscode&theme=dark" />
-    </a>
-  </p>
-
-  <br />
-
-  <h2>⏱️ Tempo de Código (WakaTime)</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fwrmiranda&theme=maroon&layout=compact&hide_border=false" alt="Horas de código" />
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" /><br />
+        <font size="3"><b>Figma</b></font>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /><br />
+        <font size="3"><b>HTML5</b></font>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /><br />
+        <font size="3"><b>CSS3</b></font>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br />
+        <font size="3"><b>JavaScript</b></font>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" /><br />
+        <font size="3"><b>C</b></font>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br />
+        <font size="3"><b>Python</b></font>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br />
+        <font size="3"><b>Java</b></font>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br />
+        <font size="3"><b>Git</b></font>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /><br />
+        <font size="3"><b>GitHub</b></font>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" /><br />
+        <font size="3"><b>VS Code</b></font>
+      </td>
+    </tr>
+  </table>
 
   <br />
 
   <h2>📊 Estatísticas no GitHub</h2>
-
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=fwrmiranda&show_icons=true&theme=maroon&hide_border=false&border_radius=8" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwrmiranda&layout=compact&theme=maroon&hide_border=false&border_radius=8" />
-  </p>
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwrmiranda&theme=maroon&hide_border=false" alt="GitHub Streak" />
@@ -59,22 +90,15 @@
 
   <br />
 
-  <h2>🎵 Ouvindo Agora</h2>
   <p align="center">
-    <a href="https://spotify-github-profile.m33.workers.dev/api/view?uid=31irxd4vy47vsdjsmwnk4nhdwhuq&cover_image=true&theme=novatide">
-      <img src="https://spotify-github-profile.m33.workers.dev/api/view?uid=31irxd4vy47vsdjsmwnk4nhdwhuq&cover_image=true&theme=novatide" alt="Spotify Status" />
-    </a>
+    <img src="./assets/spiderdeitado.jpeg" width="760" alt="Spider Icon" />
   </p>
 
-  <br />
-
   <p align="center">
-    <img src="https://readme-quotes-readme.vercel.app/api?type=horizontal&theme=maroon" alt="Citação" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=B91C1C&center=true&vCenter=true&width=550&lines=Com+grandes+poderes%2C+v%C3%AAm+grandes+responsabilidades..." alt="Citação Animada" />
   </p>
 
-  <br />
-
-  <h2>🌐 Conecte-se Comigo</h2>
+  <h2>🌐 Contatos</h2>
 
   <p align="center">
     <a href="https://linkedin.com/in/fwrmiranda" target="_blank">
