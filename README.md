@@ -13,13 +13,13 @@
 
   <h2>🕷️ Quem Sou Eu?</h2>
 
-  <div align="left" style="font-size: 18px; line-height: 1.8;">
-    <h3>🎓 Cursando o <b>4º período de Ciência da Computação</b> na Universidade Federal do Maranhão (<b>UFMA</b>).</h3>
-    <h3>🎨 Interesse e foco em <b>Desenvolvimento Web, Design de Interfaces e Banco de Dados</b>.</h3>
-    <h3>💡 Crio e prototipo ideias de sites no <b>Figma</b>, juntando o visual com a prática do código.</h3>
-    <h3>👥 Faço parte do <b>PETComp</b> e do programa <b>Trilhas Inova Maranhão</b>.</h3>
-    <h3>🚀 Bastante dedicada a aprender coisas novas e explorar diferentes áreas da tecnologia.</h3>
-  </div>
+  <p align="center">
+    🎓 <b>Cursando o 4º período de Ciência da Computação na Universidade Federal do Maranhão (UFMA).</b><br /><br />
+    🎨 <b>Interesse e foco em Desenvolvimento Web, Design de Interfaces e Banco de Dados.</b><br /><br />
+    💡 <b>Crio e prototipo ideias de sites no Figma, juntando o visual com a prática do código.</b><br /><br />
+    👥 <b>Faço parte do PETComp e do programa Trilhas Inova Maranhão.</b><br /><br />
+    🚀 <b>Bastante dedicada a aprender coisas novas e explorar diferentes áreas da tecnologia.</b>
+  </p>
 
   <br />
 
@@ -83,7 +83,7 @@
   <br />
 
   <p align="center">
-    <img src="./assets/spiderdeitado.jpeg" width="760" alt="Spider Icon" />
+    <img src="./assets/spiderdeitado.jpeg" width="495" style="border-radius: 8px;" alt="Spider Icon" />
   </p>
 
   <p align="center">
