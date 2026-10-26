@@ -33,45 +33,45 @@
 
   <table align="center">
     <tr>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" /><br />
         <font size="3"><b>Figma</b></font>
       </td>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /><br />
         <font size="3"><b>HTML5</b></font>
       </td>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /><br />
         <font size="3"><b>CSS3</b></font>
       </td>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br />
         <font size="3"><b>JavaScript</b></font>
       </td>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" /><br />
         <font size="3"><b>C</b></font>
       </td>
     </tr>
     <tr>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br />
         <font size="3"><b>Python</b></font>
       </td>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br />
         <font size="3"><b>Java</b></font>
       </td>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br />
         <font size="3"><b>Git</b></font>
       </td>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /><br />
         <font size="3"><b>GitHub</b></font>
       </td>
-      <td align="center" width="110">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" /><br />
         <font size="3"><b>VS Code</b></font>
       </td>
@@ -102,7 +102,7 @@
 <br/>
 
  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFFFF&center=true&vCenter=true&width=550&lines=Com+grandes+poderes%2C+v%C3%AAm+grandes+responsabilidades..." alt="Citação Animada" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=34bcf6&center=true&vCenter=true&width=550&lines=Com+grandes+poderes%2C+v%C3%AAm+grandes+responsabilidades..." alt="Citação Animada" />
    <br />
 
   <h2>🌐 Contatos</h2>
