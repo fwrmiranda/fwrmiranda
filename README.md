@@ -93,7 +93,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=34BCF6&center=true&vCenter=true&width=550&lines=Com+grandes+poderes%2C+v%C3%AAm+grandes+responsabilidades..." alt="Citação Animada" />
   </p>
 
-  <br />
+
 
   <h2>🌐 Contatos</h2>
 
