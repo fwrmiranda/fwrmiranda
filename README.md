@@ -39,9 +39,9 @@
 
   <br />
 
-  <h2>🎮 Contribution Graph Snake</h2>
+  <h2>⏱️ Tempo de Código (WakaTime)</h2>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/fwrmiranda/fwrmiranda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fwrmiranda&theme=maroon&layout=compact&hide_border=false" alt="Horas de código" />
   </p>
 
   <br />
@@ -55,6 +55,21 @@
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwrmiranda&theme=maroon&hide_border=false" alt="GitHub Streak" />
+  </p>
+
+  <br />
+
+  <h2>🎵 Ouvindo Agora</h2>
+  <p align="center">
+    <a href="https://spotify-github-profile.m33.workers.dev/api/view?uid=31irxd4vy47vsdjsmwnk4nhdwhuq&cover_image=true&theme=novatide">
+      <img src="https://spotify-github-profile.m33.workers.dev/api/view?uid=31irxd4vy47vsdjsmwnk4nhdwhuq&cover_image=true&theme=novatide" alt="Spotify Status" />
+    </a>
+  </p>
+
+  <br />
+
+  <p align="center">
+    <img src="https://readme-quotes-readme.vercel.app/api?type=horizontal&theme=maroon" alt="Citação" />
   </p>
 
   <br />
