@@ -31,79 +31,84 @@
 
   <h2>🛠️ Ferramentas & Tecnologias</h2>
 
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" /><br />
-        <font size="3"><b>Figma</b></font>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /><br />
-        <font size="3"><b>HTML5</b></font>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /><br />
-        <font size="3"><b>CSS3</b></font>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br />
-        <font size="3"><b>JavaScript</b></font>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" /><br />
-        <font size="3"><b>C</b></font>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br />
-        <font size="3"><b>Python</b></font>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br />
-        <font size="3"><b>Java</b></font>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br />
-        <font size="3"><b>Git</b></font>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /><br />
-        <font size="3"><b>GitHub</b></font>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" /><br />
-        <font size="3"><b>VS Code</b></font>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" /><br />
+      <font size="2"><b>Figma</b></font>
+    </span>
+    &nbsp;&nbsp;
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /><br />
+      <font size="2"><b>HTML5</b></font>
+    </span>
+    &nbsp;&nbsp;
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /><br />
+      <font size="2"><b>CSS3</b></font>
+    </span>
+    &nbsp;&nbsp;
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br />
+      <font size="2"><b>JavaScript</b></font>
+    </span>
+    &nbsp;&nbsp;
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" /><br />
+      <font size="2"><b>C</b></font>
+    </span>
+    &nbsp;&nbsp;
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br />
+      <font size="2"><b>Python</b></font>
+    </span>
+    &nbsp;&nbsp;
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br />
+      <font size="2"><b>Java</b></font>
+    </span>
+    &nbsp;&nbsp;
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br />
+      <font size="2"><b>Git</b></font>
+    </span>
+    &nbsp;&nbsp;
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /><br />
+      <font size="2"><b>GitHub</b></font>
+    </span>
+    &nbsp;&nbsp;
+    <span style="display: inline-block; margin: 10px; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" /><br />
+      <font size="2"><b>VS Code</b></font>
+    </span>
+  </p>
 
   <br />
 
-<h2> 📊 Estatísticas </h2>
+  <h2>📊 Estatísticas</h2>
 
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fwrmiranda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
+  <p align="center">
+    <img 
       align="center" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=fwrmiranda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+      align="center" 
+      alt="GitHub Top Langs" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwrmiranda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+    />
+  </p>
 
-<br/>
+  <br />
 
- <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=34bcf6&center=true&vCenter=true&width=550&lines=Com+grandes+poderes%2C+v%C3%AAm+grandes+responsabilidades..." alt="Citação Animada" />
-   <br />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=34BCF6&center=true&vCenter=true&width=550&lines=Com+grandes+poderes%2C+v%C3%AAm+grandes+responsabilidades..." alt="Citação Animada" />
+  </p>
+
+  <br />
 
   <h2>🌐 Contatos</h2>
 
