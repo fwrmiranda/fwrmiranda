@@ -80,15 +80,6 @@
 
   <br />
 
-  <h2>📊 Estatísticas</h2>
-
-  <p align="center">
-    <img align="center" alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=fwrmiranda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    <img align="center" alt="GitHub Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwrmiranda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-  </p>
-
-  <br />
-
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=34BCF6&center=true&vCenter=true&width=550&lines=Com+grandes+poderes%2C+v%C3%AAm+grandes+responsabilidades..." alt="Citação Animada" />
   </p>
